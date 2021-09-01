@@ -23,3 +23,8 @@ docker-machine restart
 brew install docker-compose
 ```
 
+## set docker-compose on clion
+![D187374A-97A1-475C-86AF-CDE3D627AE26](https://user-images.githubusercontent.com/1585417/131607809-5eecd696-e2c8-4465-9ed6-2b04162e9cc2.png)
+
+![39734BD9-DD2F-47E8-A51B-EF6568658435](https://user-images.githubusercontent.com/1585417/131607821-a0290ef9-6df3-4ce6-9151-f550d98f10ad.png)
+
