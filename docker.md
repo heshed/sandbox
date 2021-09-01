@@ -11,7 +11,7 @@ sudo cp docker/docker /usr/local/bin/
 ```
 
 ## server
-```
+```console
 brew install virtualbox
 brew install docker-machine
 brew services start docker-machine
