@@ -15,7 +15,7 @@ sudo cp docker/docker /usr/local/bin/
 brew install virtualbox
 brew install docker-machine
 brew services start docker-machine
-docker-machine create --driver virtualbox default
+docker-machine create --driver "virtualbox" --virtualbox-disk-size "20000" --virtualbox-memory "4096" --virtualbox-cpu-count "2" default
 docker-machine restart
 eval "$(docker-machine env default)"
 docker-machine restart
